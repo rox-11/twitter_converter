@@ -1,4 +1,4 @@
-# gui app created for change title of twitter from x or nitter to twitter
+# gui app created for change title of twitter x x or nitter 
 # cerated by (snom)
 
 from kivy.app import App
